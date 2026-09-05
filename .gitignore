@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log
+.neon
+.env.local
+.DS_Store
+
+kubectl
+minikube-darwin-arm64
